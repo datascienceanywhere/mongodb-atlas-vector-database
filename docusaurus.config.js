@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'datascienceanywhere', // Usually your GitHub org/user name.
-  projectName: 'mongodb-atlas-vector-databas', // Usually your repo name.
+  projectName: 'mongodb-atlas-vector-database', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
