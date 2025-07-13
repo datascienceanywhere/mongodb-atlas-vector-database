@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmongodb_atlas_vector_database=self.webpackChunkmongodb_atlas_vector_database||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/mongodb-atlas-vector-database/blog","blogTitle":"Blog","authorsListPath":"/mongodb-atlas-vector-database/blog/authors"}')}}]);

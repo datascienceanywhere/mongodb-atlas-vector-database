@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmongodb_atlas_vector_database=self.webpackChunkmongodb_atlas_vector_database||[]).push([[5742],{7093:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

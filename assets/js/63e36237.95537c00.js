@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmongodb_atlas_vector_database=self.webpackChunkmongodb_atlas_vector_database||[]).push([[8440],{6845:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/mongodb-atlas-vector-database/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
