@@ -329,14 +329,3 @@ db.students.insertMany([
     }
 ])
 ```
-
-### Handling Duplicate Key Errors
-
-```javascript
-// If you have a unique index on email field
-try {
-    db.students.insertMany([
-        {
-            firstName: "Steve",
-            lastName: "Johnson",
-        
